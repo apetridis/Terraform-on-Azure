@@ -1,7 +1,7 @@
 ## Terraform on Azure
 Follow the instructions to create a virtual machine on Azure with Jenkins, Maven and Docker installed
 ### Clone the repository
-```
+$ ```
 git clone 
 ```
 ### Rename and edit terraform variables
