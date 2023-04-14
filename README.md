@@ -14,9 +14,9 @@ mv sample.terraform.tfvars terraform.tfvars
 ```
 nano terraform.tfvars
 ```
-Insert your prefix, location, username and password 
+Insert your prefix, location, username and password for your virtual machine
 ### Get local machine ready
-Make sure that you have azure and terraform installed on your local device and that you are loged in to azure
+Make sure that you have azure and terraform installed on your local device and that you are logged in to azure
 ```
 terraform version 
 ```
